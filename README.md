@@ -1,5 +1,5 @@
 
-# Meter Data Generator and BigQuery Loader**
+# Meter Data Generator and BigQuery Loader
 
 ### Purpose
 

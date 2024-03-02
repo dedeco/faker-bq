@@ -22,12 +22,12 @@ This script generates fake meter data (meter loads and readings) and loads it in
 ### Setup
 
 1. Clone this repo.
-2. Install libraries: `pip install google-cloud-bigquery pandas numpy faker dataclasses`
+2. Install libraries: `pip install -r requirements.txt`
 
 ### Usage
 
 1. Edit `table_id` values in the script to match your BigQuery dataset and table names.
-2. Run: `python meter_data_generator.py`
+2. Run: `python meter.py`
 
 ### Customization
 
